@@ -1,5 +1,5 @@
-# API - Labook-39
-## Repositório da API do projeto Labook com recursos Backend de uma rede social.
+# API - Backend Social Network
+## Repositório da API do projeto Backend Social Network com recursos de uma rede social.
 
 :green_book: [Documentação para a API](https://documenter.getpostman.com/view/22376211/2s935oLjBq)
 

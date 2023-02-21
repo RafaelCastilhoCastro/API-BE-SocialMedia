@@ -1,6 +1,5 @@
 import { Request, Response } from 'express'
 import { FriendshipBusiness } from '../business/FriendshipBusiness'
-import { IdentifyUsers } from '../error/FriendshipError'
 import { Friendship } from '../model/Friendship'
 
 export class FriendshipController {
